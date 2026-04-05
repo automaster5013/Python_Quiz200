@@ -11,6 +11,9 @@ listData = ['a', 'b', 'c']
 if 'a' in listData: print('"a"가 listData에 요소로 존재합니다.')
 
 
+# if 'a' in listData:
+#     실행 코드
+
 
 listData = ['a', 'b', 'c']
 if 'a' in listData:
@@ -29,4 +32,4 @@ else:
 
 
 
-    
+
