@@ -6,8 +6,3 @@ print(strData1 == strData2)
 print(strData2 == 'Python')
 print(strData1 < strData2)
 
-
-
-
-
-
